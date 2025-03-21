@@ -1,4 +1,4 @@
-﻿# Simple-File-Hashing-Tool
+﻿# Simple-File-Hashing-Tool(ภาษาไทย)
 
   โปรแกรม Simple File Hashing Tool นี้ถูกออกแบบมาเพื่อช่วยในการคำนวณและตรวจสอบค่า Hash ของไฟล์ ซึ่งจะช่วยให้ผู้ใช้สามารถตรวจสอบความสมบูรณ์ของไฟล์ได้ โดยการเปรียบเทียบค่า hash ที่ได้จากการคำนวณกับค่าที่ทราบล่วงหน้า เช่น MD5 หรือ SHA-256 เพื่อให้มั่นใจว่าไฟล์ไม่ได้ถูกแก้ไขหรือถูกทำลายระหว่างการส่งผ่านหรือจัดเก็บ
 
@@ -56,7 +56,7 @@
 โปรแกรมนี้ง่ายต่อการใช้งานและสามารถช่วยให้คุณมั่นใจได้ว่าไฟล์ของคุณไม่ได้ถูกแก้ไขหรือถูกโจมตีจากภัยคุกคามต่างๆ
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Simple File Hashing Tool
+# Simple File Hashing Tool(English)
 
   The Simple File Hashing Tool is designed to help compute and verify the hash values of files, ensuring their integrity. The tool allows users to compare the hash value computed for a file with a known value (such as MD5 or SHA-256) to verify that the file has not been altered or corrupted during transfer or storage.
 
