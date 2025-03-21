@@ -28,7 +28,7 @@
 
 # วิธีการใช้งาน
 
-1.รันโปรแกรมใน Terminal หรือ Command Prompt
+1.รันโปรแกรมใน Terminal หรือ Command Prompt (node+FileName)
 
 2.ป้อน เส้นทางของไฟล์ ที่ต้องการตรวจสอบ
 
@@ -86,7 +86,7 @@
 
 # How to Use:
 
-1.Run the program in Terminal or Command Prompt.
+1.Run the program in Terminal or Command Prompt (node+FileName).
 
 2.Enter the file path of the file you wish to check.
 
